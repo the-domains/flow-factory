@@ -1,0 +1,14 @@
+layout_spectrum: 0.7658517174422741
+typography_spectrum: 0.20883568353019655
+color:
+  brandStrength: 0.44782614056020975
+  lightness: 0.16084989253431559
+  saturation: 0.12061786674894392
+  rhythmicContrast: 0.560854114824906
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: flow factory
