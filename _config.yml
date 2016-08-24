@@ -1,4 +1,3 @@
-layout_spectrum: 0.7121319570578635
 typography_spectrum: 0.8984388648532331
 color:
   brandStrength: 0.5926225811708719
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.7121319570578635
 name: flow factory
+title: Flow Factory
